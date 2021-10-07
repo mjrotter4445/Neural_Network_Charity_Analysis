@@ -16,7 +16,18 @@ interpreting large complex datasets. Important steps in neural networks ML algor
 
 ## Results
 
-## Data Preprocessing
+<p align="center">
+  <img width="550" height=400" src="hxxxxx">
+</p>
+<p align="center">
+Figure 1 - The Dataframe of Information we'll be working with 
+</p>
+                 
+
+                 
+## Data Reprocessing
+          
+                 
 **What variable(s) are considered the target(s) for your model?**
 
 In this case that is our “IS_SUCCESSFULL” column. Target variables are also known 
