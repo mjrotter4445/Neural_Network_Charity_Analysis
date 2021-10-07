@@ -1,13 +1,11 @@
 # Nueral_Network_Charity_Analysis
-# Neural Network Charity Analysis
 *Deep Learning ML*
 
 ## Project Overview
 For this project, I am using **Neural Networks Machine Learning algorithms**, also known as artificial neural networks, or **ANN**. For coding, we used Python **TensorFlow** 
 library in order to create a binary classifier that is capable of predicting whether applicants will be successful if funded by nonprofit foundation *Alphabet Soup*. This ML 
 model will help ensure that the foundation’s money is being used effectively. With neural networks ML algorithms we are creating a robust deep learning neural network capable of 
-interpreting large complex datasets. Important steps in neural networks ML algorithms are data cleaning and data preprocessing as well as decision what data is beneficial for 
-the model accuraccy.
+interpreting large complex datasets. Important steps in neural networks ML algorithms are **data cleaning and data preprocessing** as well as decision **what data is beneficial for** the model accuraccy.
 
 ## Resources
 -  Dataset charity_data.csv
