@@ -130,5 +130,9 @@ data. Although gathering more data is not always the easy decision is sometimes
 necessary.
 
 References
-(A) Module 19.4.1 Unleash the Hidden Potential of Neural Networks, and (B) Module 
-19.2.2 Build a Basic Neural Programming.  
+(A) Module 19.2.2 Build a Basic Neural Programming, 
+(C) Module 19.3.3   
+(C) Module 19.4.2  
+(D) Module 19.4.4 Deep learning model design,  
+
+                 
