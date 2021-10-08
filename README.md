@@ -23,7 +23,7 @@ interpreting large complex datasets. Important steps in neural networks ML algor
 Figure 1 - The Dataframe of Information we'll be working with 
 </p>
                  
-
+#  56%  something   then 75%  and then 76% 
                  
 ## Data Reprocessing
           
