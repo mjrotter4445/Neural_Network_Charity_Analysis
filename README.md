@@ -9,7 +9,7 @@ nonprofit foundation *Alphabet Soup*. This ML
 model will help ensure that the foundation’s money is being used effectively. With neural networks ML algorithms we are creating 
 a robust deep learning neural network capable of 
 interpreting large complex datasets. Important steps in neural networks ML algorithms are **data cleaning and data 
-preprocessing** as well as decision **what data is beneficial for** the model accuracy.
+preprocessing** as well as decision **what data is beneficial for the model accuracy**.
 
 ## Resources
 -  Dataset charity_data.csv
