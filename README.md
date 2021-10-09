@@ -90,7 +90,8 @@ Figure 3 - Original lower performance accuracy = 45%
 
 **Were you able to achieve the target model performance?**
 
-Yes. After few configurations of number of hidden nodes we were able to achieve the target model performance. The model accuracy improved to 64% then 76.10% and eventually to 76.20%. Figures below show accuracy score after modifying settings in optimization.
+Yes. After few configurations of number of hidden nodes we were able to achieve the target model performance. The model accuracy improved from 64% then 76.10% then to 76.20%, 
+and eventually were were pleased to get to 77.20% with low loss at .46%.
 
 
 <p align="center">
