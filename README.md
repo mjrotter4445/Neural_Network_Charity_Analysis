@@ -24,7 +24,7 @@ function to preprocess the dataset.   Next we will compile, train, and evaluate 
 effectiveness. 
 
 <p align="center">
-  <img width="550" height=400" src="Fig1">
+  <img width="800" height=500" src="https://github.com/mjrotter4445/Nueral_Network_Charity_Analysis/blob/main/Graphics/Fig1_orig_df.jpg">
 </p>
 <p align="center">
 Figure 1 - The Dataframe of Information we'll be working with 
