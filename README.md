@@ -44,7 +44,7 @@ as dependent variable and we are using this variable to train our ML model.
 Input values are also known as independent variables, and are considered to be 
 features for the model. Those variables include all columns, except target 
 variable and the one(s) we dropped “EIN" and "NAME” in the first trial (Figure 3) and “EIN” 
-in optimization trial (Figures 4,5 & 6).
+in optimization trial (Figures 4,5, 6, & 7).
 
 **What variable(s) are neither targets nor features, and should be removed from the input data?**
 
@@ -116,9 +116,17 @@ Figure 5 - Even Better with Optimization - accuracy at 76.10%
   <img width="550" height=400" src="fig  6 .jpg">
 </p>
 <p align="center">
-Figure 6 - the Best Performance at accuracy = 76.20%
+Figure 6 - and Better Performance at accuracy = 76.20%  
 </p>
 
+
+
+<p align="center">
+  <img width="550" height=400" src="fig  7 .jpg">
+</p>
+<p align="center">
+Figure 7 - and even Better Performance at accuracy = 77.20% - our Best so far.  
+</p>
 
 **What steps did you take to try and increase model performance?**
 
@@ -128,11 +136,12 @@ In order to increase model performance,we took the following steps:
 set a **condition on that value for any that are less than 50 in “Other” group**. This approach 
 reduced the number of unique categorical values by binning the values. **Noisy variables reduced by binning.**
 -  **Binned the ASK_AMT values**.
--  **Added neurons to hidden layers and added hidden layers**
+-  **Added neurons to hidden layers and added hidden layers**.
 -  At first, I added the third layer with 40 neurons; however, I’ve changed back to 
 2 layers, because the results did not improve much if any.  Increase neurons for each layer (200 for 1st, 90 for 2nd). 
 -  **Increased Epochs to 500**.
--  **Models weights are saved very 5 epochs**
+-  **Models weights are saved very 5 epochs**.
+-  **and FINALLY, added The Random Forest Algorithm** for the best performance of all in Figure 7.
 
 
 # Summary
