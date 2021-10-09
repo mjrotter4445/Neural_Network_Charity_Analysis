@@ -43,8 +43,8 @@ as dependent variable and we are using this variable to train our ML model.
 
 Input values are also known as independent variables, and are considered to be 
 features for the model. Those variables include all columns, except target 
-variable and the one(s) we dropped “EIN" and "NAME” in the first trial (Figure 3) and “EIN” 
-in optimization trial (Figures 4,5, 6, & 7).
+variable and the one(s) we dropped “EIN" and "NAME” in the first trial (Figure 3) and 
+only “EIN” (we kept the name) in optimization trial (Figures 4, 5, 6, & 7).
 
 **What variable(s) are neither targets nor features, and should be removed from the input data?**
 
