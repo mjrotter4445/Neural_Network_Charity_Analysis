@@ -83,7 +83,7 @@ Figure 2 - The design of the TensorFlow Model to start our work with
 
 
 <p align="center">
-  <img width="550" height=400" src="Figure 3 .jpg">
+  <img width="400" height=300" src="https://github.com/mjrotter4445/Nueral_Network_Charity_Analysis/blob/main/Graphics/Fig3_original_low_45perc.jpg">
 </p>
 <p align="center">
 Figure 3 - Original lower performance accuracy = .45 
