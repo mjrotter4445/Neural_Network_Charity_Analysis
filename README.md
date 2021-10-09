@@ -95,7 +95,7 @@ Yes. After few configurations of number of hidden nodes we were able to achieve 
 
 
 <p align="center">
-  <img width="550" height=400" src="https://github.com/mjrotter4445/Nueral_Network_Charity_Analysis/blob/main/Graphics/Fig4%20_add%20a%20layer_64perc.jpg">
+  <img width="500" height=200" src="https://github.com/mjrotter4445/Nueral_Network_Charity_Analysis/blob/main/Graphics/Fig4%20_add%20a%20layer_64perc.jpg">
 </p>
 <p align="center">
 Figure 4 - Better with Optimization - accuracy at 64.57%
