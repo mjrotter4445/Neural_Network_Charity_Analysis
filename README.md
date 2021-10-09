@@ -160,11 +160,12 @@ After a lot of experimenting and fine-tuning to the model we were able to contin
 and eventually get up to 76% accuracy and 74% loss as you can see in Figure 6.  This is not necessarily the 
 best model for this dataset. The loss score for that model was still so high at about 74%.  
 
-Random Forests Algorithm might be the best fit for this dataset because the performance is better.   
+Random Forests Algorithm might be the best fit for this dataset because the performance is better.  
+In Figure 7 above we can see the results.  We were pleased that we were able to get the 
+loss score down to .46, meaning the probability model to fail is 46% and 
+accuracy score up to 0.772, meaning that the probability model to be accurate is 77.20%.
 
-Dataset that we were working on seemed good fit because 
-of the length of the dataset and its complexity, even though the results weren't the best. Adding new 
-input values seemed a good choice when improving the model accuracy. In this case 
+Adding new input values seemed a good choice when improving the model accuracy. In this case 
 I would consider adding more input values (if there are some available in the original 
 dataset, for example). Another thing we could do, is to consider gathering more 
 data. Although gathering more data is not always the easy decision but it is sometimes 
