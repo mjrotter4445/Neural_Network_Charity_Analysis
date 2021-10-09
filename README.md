@@ -44,7 +44,7 @@ as dependent variable and we are using this variable to train our ML model.
 Input values are also known as independent variables, and are considered to be 
 features for the model. Those variables include all columns, except target 
 variable and the one(s) we dropped “EIN" and "NAME” in the first trial (Figure 3) and 
-only “EIN” (we kept the name) in optimization trial (Figures 4, 5, 6, & 7).
+only “EIN” (we kept the "NAME") in optimization trial (Figures 4, 5, 6, & 7).
 
 **What variable(s) are neither targets nor features, and should be removed from the input data?**
 
@@ -86,7 +86,7 @@ Figure 2 - The design of the TensorFlow Model to start our work with
   <img width="500" height=150 src="https://github.com/mjrotter4445/Nueral_Network_Charity_Analysis/blob/main/Graphics/Fig3_original_low_45perc.jpg">
 </p>
 <p align="center">
-Figure 3 - Original lower performance accuracy = .45 
+Figure 3 - Original lower performance accuracy = 45%
 </p>
 
 **Were you able to achieve the target model performance?**
@@ -107,7 +107,7 @@ Figure 4 - Better with Optimization - accuracy at 64.57%
   <img width="550" height=200" src="https://github.com/mjrotter4445/Nueral_Network_Charity_Analysis/blob/main/Graphics/Fig5_rebucketing_much_better_761perc.jpg">
 </p>
 <p align="center">
-Figure 5 - Even Better with Optimization - accuracy at 76.10%
+Figure 5 - Even Better with modifications to Optimization - accuracy at 76.10%
 </p>
 
 
@@ -150,17 +150,20 @@ reduced the number of unique categorical values by binning the values. **Noisy v
 
 The model loss and accuracy score tell us how well the model does with the 
 dataset and parameters that we build the model. In the end, the most optimal model we
-ran was the last one - Figure 6 above.  The Loss score is equal to 0.74, 
-meaning the probability model to fail is 74% and accuracy score is 0.762, 
-meaning that the probability model to be accurate is 76.20%.
+ran was the last one - Figure 7 above.  We were pleased that we were able to get the 
+loss score down to .46, meaning the probability model to fail is 46% and 
+accuracy score up to 0.772, meaning that the probability model to be accurate is 77.20%.
 
 *Recommendation for further analysis*:
 
-After some fine-tuning the model we were able to reach accuracy score of 76.20% in Figure 6 above.
-Although the model reached the required criteria it might not be the best model for this 
-dataset. The loss score for that model is still about 74%, which is still quite high. 
-Dataset that we were working on seemed good fit because of the length of the 
-dataset and its complexity, even though the results weren't the best. Adding new 
+After a lot of experimenting and fine-tuning to the model we were able to continuously improve the accuracy score 
+and eventually get up to 76% accuracy and 74% loss as you can see in Figure 6.  This is not necessarily the 
+best model for this dataset. The loss score for that model was still so high at about 74%.  
+
+Random Forests Algorithm might be the best fit for this dataset because the performance is better.   
+
+Dataset that we were working on seemed good fit because 
+of the length of the dataset and its complexity, even though the results weren't the best. Adding new 
 input values seemed a good choice when improving the model accuracy. In this case 
 I would consider adding more input values (if there are some available in the original 
 dataset, for example). Another thing we could do, is to consider gathering more 
