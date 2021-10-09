@@ -83,7 +83,7 @@ Figure 2 - The design of the TensorFlow Model to start our work with
 
 
 <p align="center">
-  <img width="400" height=300" src="https://github.com/mjrotter4445/Nueral_Network_Charity_Analysis/blob/main/Graphics/Fig3_original_low_45perc.jpg">
+  <img width="200" height=200" src="https://github.com/mjrotter4445/Nueral_Network_Charity_Analysis/blob/main/Graphics/Fig3_original_low_45perc.jpg">
 </p>
 <p align="center">
 Figure 3 - Original lower performance accuracy = .45 
@@ -95,7 +95,7 @@ Yes. After few configurations of number of hidden nodes we were able to achieve 
 
 
 <p align="center">
-  <img width="550" height=400" src="fig  4 .jpg">
+  <img width="550" height=400" src="https://github.com/mjrotter4445/Nueral_Network_Charity_Analysis/blob/main/Graphics/Fig4%20_add%20a%20layer_64perc.jpg">
 </p>
 <p align="center">
 Figure 4 - Better with Optimization - accuracy at 64.57%
