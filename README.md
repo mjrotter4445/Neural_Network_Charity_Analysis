@@ -70,8 +70,8 @@ that the algorithm will not get stuck on weaker classifying variables and
 features and to enhance the performance of classification neural network.
 As for the loss function, I used **binary crossentropy**, which is specifically 
 designed to evaluate a binary classification model.
-- The Model was trained on 100 epochs. I tried different epoch settings and the models made significant
-continuous improvements as you can see in the results below.  
+- The Model was trained on 100 epochs. We tried different epoch settings and the models did
+made significant continuous improvements as you can see in the results below.  
 
 <p align="center">
   <img width="550" height=400" src="https://github.com/mjrotter4445/Nueral_Network_Charity_Analysis/blob/main/Graphics/Fig2_TFModelbuild.jpg">
