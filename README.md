@@ -104,7 +104,7 @@ Figure 4 - Better with Optimization - accuracy at 64.57%
 
 
 <p align="center">
-  <img width="650" height=150" src="https://github.com/mjrotter4445/Nueral_Network_Charity_Analysis/blob/main/Graphics/Fig5_rebucketing_much_better_761perc.jpg">
+  <img width="650" height=200" src="https://github.com/mjrotter4445/Nueral_Network_Charity_Analysis/blob/main/Graphics/Fig5_rebucketing_much_better_761perc.jpg">
 </p>
 <p align="center">
 Figure 5 - Even Better with Optimization - accuracy at 76.10%
@@ -113,7 +113,7 @@ Figure 5 - Even Better with Optimization - accuracy at 76.10%
 
 
 <p align="center">
-  <img width="550" height=400" src="fig  6 .jpg">
+  <img width="550" height=400" src="fig 6">
 </p>
 <p align="center">
 Figure 6 - and Better Performance at accuracy = 76.20%  
