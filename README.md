@@ -1,4 +1,4 @@
-# Nueral_Network_Charity_Analysis
+# Neural_Network_Charity_Analysis
 *Deep Learning ML*
 
 ## Project Overview
