@@ -78,7 +78,7 @@ overfitting.
   <img width="550" height=400" src="https://github.com/mjrotter4445/Nueral_Network_Charity_Analysis/blob/main/Graphics/Fig2_TFModelbuild.jpg">
 </p>
 <p align="center">
-Figure 2 - The design of the TensorFlow Model to begin our work with  
+Figure 2 - The design of the TensorFlow Model to start our work with  
 </p>
 
 
