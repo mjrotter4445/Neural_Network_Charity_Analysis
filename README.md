@@ -2,14 +2,14 @@
 *Deep Learning ML*
 
 ## Project Overview
-For this project, I am using **Neural Networks Machine Learning algorithms**, also known as artificial neural networks, or 
+For this project, we are using **Neural Networks Machine Learning algorithms**, also known as artificial neural networks, or 
 **ANN**. For coding, we used Python **TensorFlow** 
 library in order to create a binary classifier that is capable of predicting whether applicants will be successful if funded by 
-nonprofit foundation *Alphabet Soup*. This ML 
+the nonprofit foundation called *Alphabet Soup*. This ML 
 model will help ensure that the foundation’s money is being used effectively. With neural networks ML algorithms we are creating 
 a robust deep learning neural network capable of 
-interpreting large complex datasets. Important steps in neural networks ML algorithms are **data cleaning and data 
-preprocessing** as well as decision **what data is beneficial for the model accuracy**.
+interpreting large complex datasets. Important steps in neural networks ML algorithms are a) **data cleaning and data 
+preprocessing** as well as decision b) **what data is beneficial for the model accuracy**.
 
 ## Resources
 -  Dataset charity_data.csv
@@ -161,8 +161,8 @@ and eventually get up to 76% accuracy and 74% loss as you can see in Figure 6.  
 best model for this dataset. The loss score for that model was still so high at about 74%.  
 
 Random Forests Algorithm might be the best fit for this dataset because the performance is better.  
-In Figure 7 above we can see the results.  We were pleased that we were able to get the 
-loss score down to .46, meaning the probability model to fail is 46% and 
+**In Figure 7 above we can see the best results using this model**.  We were pleased that we were able 
+to get the loss score down to .46, meaning the probability model to fail is 46% and 
 accuracy score up to 0.772, meaning that the probability model to be accurate is 77.20%.
 
 Adding new input values seemed a good choice when improving the model accuracy. In this case 
