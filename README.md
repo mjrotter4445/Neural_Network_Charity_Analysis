@@ -122,7 +122,7 @@ Figure 6 - and Better Performance at accuracy = 76.20%
 
 
 <p align="center">
-  <img width="550" height=400" src="fig  7 .jpg">
+  <img width="550" height=400" src="https://github.com/mjrotter4445/Nueral_Network_Charity_Analysis/blob/main/Graphics/Fig%207%20randomforest_BEST_772a.jpg">
 </p>
 <p align="center">
 Figure 7 - and even Better Performance at accuracy = 77.20% - our Best so far.  
